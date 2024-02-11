@@ -1,8 +1,8 @@
-
+import '../Compartido/Footer.css';
 function Footer() {
   return (
-    <footer>
-        <small>© 2022 - Creado por Denny Boz</small>
+    <footer className="footer">
+        <small>© 2024 - Creado por Denny Boz</small>
     </footer>
   );
 }

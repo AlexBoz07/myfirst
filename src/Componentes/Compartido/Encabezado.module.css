@@ -1,0 +1,15 @@
+.logo {
+    @apply mr-2 h-10 w-10;
+}
+
+.contenedor {
+    @apply bg-white h-xl shadow justify-between flex text-gray-700 relative;
+}
+
+.titulo {
+   @apply flex pl-4 items-center font-bold;
+}
+
+.texto {
+    @apply font-bold;
+}

@@ -1,0 +1,12 @@
+.principal {
+     height: calc(100vh - theme('height.principal'));
+     @apply flex;
+}
+
+.main {
+    @apply h-full overflow-auto w-full;
+}
+
+.menu {
+    @apply h-full overflow-auto w-60 bg-gray-100 flex flex-col shadow;
+}
